@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-dark-minimal
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+color-scheme: "dark" # ["dark", "light", "auto" or "auto-deafualt-dark" auto is deafault setting and changes theme based on device theme, auto-deafualt-dark is the same except if you device does not support changing theme based on device theme it will deafault to dark and the others are fairly explanetory.]
+logo: avataaars.svg
+title: Austin Lively
+description: |
+  He/Him/His <br>
+  CS & ECE, University of Tulsa, 2022 <br>
+  Oklahoma School of Science and Math, 2018
+
+# Comment Here for testing purposes
